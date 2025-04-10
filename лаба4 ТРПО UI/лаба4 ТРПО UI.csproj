@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>лаба4_ТРПО_UI</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="лаба4 ТРПО solvers">
+      <HintPath>..\..\лаба4 ТРПО solvers\лаба4 ТРПО solvers\bin\Debug\лаба4 ТРПО solvers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{00E43A41-A03A-4B90-A9CC-02CAEECCB8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "лаба4 ТРПО UI", "лаба4 ТРПО UI\лаба4 ТРПО UI.csproj", "{E9C7A7BA-5A17-497B-BCE8-A703EA68BCD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9C7A7BA-5A17-497B-BCE8-A703EA68BCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C7A7BA-5A17-497B-BCE8-A703EA68BCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C7A7BA-5A17-497B-BCE8-A703EA68BCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C7A7BA-5A17-497B-BCE8-A703EA68BCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E9C7A7BA-5A17-497B-BCE8-A703EA68BCD9} = {00E43A41-A03A-4B90-A9CC-02CAEECCB8E9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53254C15-2C8F-40AE-96F2-5DDB28B0E370}
+	EndGlobalSection
+EndGlobal
